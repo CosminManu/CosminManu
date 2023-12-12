@@ -15,22 +15,52 @@
   <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
   <img alt="microsoftTeams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
+  <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img alt="stack overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
-  <img alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white">
   <img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white">
 </p>
+
+<h3>Projects I am really proud of :)</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>💻 Technologies used</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/CosminManu/restaurant-management-system"><b>Restaurant order management system - console app in JavaSE</b></a></td>
+      <td> <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CosminManu/SinkShipsGame"><b>Sink'em - console game made in JavaSE</b></a></td>
+      <td> <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CosminManu/Microsoft-webpage-copy"><b>Official Microsoft webpage copy</b></a></td>
+      <td>
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white">
+      </td>
+    </tr>
+<!--    more to come -->
+  </tbody>
+</table>
+
 
 ------------
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CosminManu&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-<h3>Where to find me</h3>
+<h3>Feel free to contact me</h3>
 <div style="margin-top: 400px;">
   
   <a href="https://www.github.com/CosminManu/">
