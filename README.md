@@ -62,6 +62,17 @@
       <td><a href="https://github.com/CosminManu/eShoppingCart"><b>Online Shopping Cart</b></td>
       <td>
         <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+        <img alt="vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square"/>
+        <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
+        <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square">
+        <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
+      </td>
+      <td><i>in progress</i></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CosminManu/eCommerce-site"><b>Online eCommerce website</b></td>
+      <td>
+        <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
         <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
         <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square">
         <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
