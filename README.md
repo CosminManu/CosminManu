@@ -5,7 +5,7 @@
 </br>I'm currently following masters in <b><i>eBusiness</i></b> at <b>Academy for Economic Studies Bucharest</b>
 </br>In my free time I enjoy some 🎹 good music, eat 🍕 or keep coding 💻</p>
 
-<h3>Things I work with & want to get better to</h3>
+<h3>Technologies I work with & want to get better to</h3>
 <p>
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
   <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
