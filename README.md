@@ -9,6 +9,7 @@
 <p>
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
   <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
+  <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -56,7 +57,7 @@
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white">
       </td>
-      <td><i>complete</i></td>
+      <td><i>complete deployed</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/CosminManu/eShoppingCart"><b>Online Shopping Cart</b></td>
@@ -77,7 +78,7 @@
         <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square">
         <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
       </td>
-      <td><i>in progress</i></td>
+      <td><i>in progress deployed</i></td>
     </tr>
 <!--    more to come -->
   </tbody>
