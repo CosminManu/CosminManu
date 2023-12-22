@@ -52,7 +52,7 @@
       <td><i>complete</i></td>
     </tr>
     <tr>
-      <td><a href="https://microsoft-webpage-copy.vercel.app/"><b>Official Microsoft webpage copy</b></a></td>
+      <td><a href="https://microsoft-webpage-copy.vercel.app"><b>Official Microsoft webpage copy</b></a></td>
       <td>
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white">
@@ -71,7 +71,7 @@
       <td><i>in progress</i></td>
     </tr>
     <tr>
-      <td><a href="https://e-commerce-site-nine-umber.vercel.app/products"><b>Online eCommerce website</b></td>
+      <td><a href="https://e-commerce-site-nine-umber.vercel.app"><b>Online eCommerce website</b></td>
       <td>
         <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
         <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
