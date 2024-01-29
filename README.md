@@ -31,7 +31,7 @@
   <img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-<h3>Projects I am really proud of :)</h3>
+<h3>Projects I amade & am proud of</h3>
 <table>
   <thead align="center">
     <tr border: none;>
