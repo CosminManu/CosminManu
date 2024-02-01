@@ -90,7 +90,6 @@
       </td>
       <td><i>completed</i></td>
     </tr>
-        https://github.com/CosminManu/firebase-practice
 <!--    more to come -->
   </tbody>
 </table>
