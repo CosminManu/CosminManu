@@ -23,6 +23,7 @@
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img alt="stack overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
@@ -80,6 +81,16 @@
       </td>
       <td><i>in progress deployed</i></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/CosminManu/firebase-practice"><b>Firebase 9 with Auth practice</b></td>
+      <td>
+        <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
+      </td>
+      <td><i>completed</i></td>
+    </tr>
+        https://github.com/CosminManu/firebase-practice
 <!--    more to come -->
   </tbody>
 </table>
