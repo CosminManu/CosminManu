@@ -5,6 +5,8 @@
 </br>I'm currently following masters in <b><i>eBusiness</i></b> at <b>Academy for Economic Studies Bucharest</b>
 </br>In my free time I enjoy some 🎹 good music, eat 🍕 or keep coding 💻</p>
 
+👉 <a href="https://github.com/CosminManu/my-CV" target="_blank"><i>Here's my CV</i></a>
+
 <h3>Technologies I work with & want to get better to</h3>
 <p>
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
