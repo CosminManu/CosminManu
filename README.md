@@ -110,7 +110,7 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CosminManu&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 
-<h3>Feel free to contact me</h3>
+<h3>Feel free to reach me</h3>
 <div style="margin-top: 400px;">
   
   <a href="https://www.github.com/CosminManu/">
