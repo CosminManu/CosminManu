@@ -63,6 +63,15 @@
       <td><i>complete deployed</i></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/CosminManu/firebase-practice"><b>Firebase 9 with Auth practice</b></td>
+      <td>
+        <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
+      </td>
+      <td><i>completed</i></td>
+    </tr>
+<!--     <tr>
       <td><a href="https://github.com/CosminManu/eShoppingCart"><b>Online Shopping Cart</b></td>
       <td>
         <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
@@ -72,7 +81,7 @@
         <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
       </td>
       <td><i>in progress</i></td>
-    </tr>
+    </tr> -->
     <tr>
       <td><a href="https://e-commerce-site-nine-umber.vercel.app"><b>Online eCommerce website</b></td>
       <td>
@@ -84,14 +93,13 @@
       <td><i>in progress deployed</i></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CosminManu/firebase-practice"><b>Firebase 9 with Auth practice</b></td>
-      <td>
-        <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
-      </td>
-      <td><i>completed</i></td>
+      <td><a href="https://github.com/CosminManu/SeaVacations"><b>Cruise website</b></td>
+        <td>
+          Shopify platform
+        </td>
+        <td><i>complete deployed on platform</i></td>
     </tr>
+
 <!--    more to come -->
   </tbody>
 </table>
