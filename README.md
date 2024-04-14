@@ -104,9 +104,7 @@
         <td>
           <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
           <img alt="test library" src="https://img.shields.io/badge/testing%20library-323330?style=flat-square&logo=testing-library&logoColor=red"/>
-          Cucumber - automated tests
-          JMeter
-          OWASP ZAP
+          Cucumber, JMeter, OWASP ZAP
         </td>
         <td><i>complete</i></td>
     </tr>
