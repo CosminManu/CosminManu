@@ -119,6 +119,14 @@
         </td>
         <td> 🟠 <i>in progress</i></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/CosminManu/24"><b>24 - timekeeping software</b></td>
+        <td>
+          TBD
+        </td>
+        <td> 🟣 <i>in analyze</i></td>
+    </tr>
+    https://github.com/CosminManu/24
 
 <!--    more to come -->
   </tbody>
