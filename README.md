@@ -49,12 +49,12 @@
     <tr>
       <td><a href="https://github.com/CosminManu/restaurant-management-system"><b>Restaurant order management system - console app in JavaSE</b></a></td>
       <td> <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></td>
-      <td><i>complete</i></td>
+      <td>🟢 <i>complete</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/CosminManu/SinkShipsGame"><b>Sink'em - console game made in JavaSE</b></a></td>
       <td> <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></td>
-      <td><i>complete</i></td>
+      <td>🟢 <i>complete</i></td>
     </tr>
     <tr>
       <td><a href="https://microsoft-webpage-copy.vercel.app"><b>Official Microsoft webpage copy</b></a></td>
@@ -62,7 +62,7 @@
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white">
       </td>
-      <td><i>complete deployed</i></td>
+      <td>🟢 <i>complete & deployed</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/CosminManu/firebase-practice"><b>Firebase 9 with Auth practice</b></td>
@@ -71,7 +71,7 @@
         <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
       </td>
-      <td><i>completed</i></td>
+      <td>🟢 <i>complete</i></td>
     </tr>
 <!--     <tr>
       <td><a href="https://github.com/CosminManu/eShoppingCart"><b>Online Shopping Cart</b></td>
@@ -92,14 +92,14 @@
         <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square">
         <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
       </td>
-      <td><i>in progress deployed</i></td>
+      <td> 🟠 <i>in progress, deployed </i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/CosminManu/SeaVacations"><b>Cruise website</b></td>
         <td>
           Shopify platform
         </td>
-        <td><i>complete deployed on platform</i></td>
+      <td>🟢 <i>complete & deployed on platform</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/CosminManu/tas"><b>Software application Testing</b></td>
@@ -108,7 +108,7 @@
           <img alt="test library" src="https://img.shields.io/badge/testing%20library-323330?style=flat-square&logo=testing-library&logoColor=red"/>
           Cucumber, JMeter, OWASP ZAP
         </td>
-        <td><i>complete</i></td>
+      <td>🟢 <i>complete</i></td>
     </tr>
     <tr>
       <td><a href="https://github.com/CosminManu/Economo"><b>Economo - personal finances&budget</b></td>
@@ -117,7 +117,7 @@
           <img alt=".net maui" src="https://img.shields.io/badge/Maui-3498DB?style=flat-square&logo=maui&logoColor=white" />
           <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
         </td>
-        <td><i>in progress</i></td>
+        <td> 🟠 <i>in progress</i></td>
     </tr>
 
 <!--    more to come -->
