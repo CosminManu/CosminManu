@@ -126,7 +126,6 @@
         </td>
         <td> 🟣 <i>in analyze</i></td>
     </tr>
-    https://github.com/CosminManu/24
 
 <!--    more to come -->
   </tbody>
