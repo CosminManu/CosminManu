@@ -111,6 +111,15 @@
       <td>🟢 <i>complete</i></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/CosminManu/Economo"><b>Economo</b></td>
+      <td>
+        <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+        <img alt="maui" src="https://img.shields.io/badge/Maui-3498DB?style=flat-square&logo=maui&logoColor=white"/>
+        <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+      </td>
+      <td> 🟠 <i>in progress</i></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/CosminManu/24"><b>24 - timekeeping software</b></td>
         <td>
           TBD
