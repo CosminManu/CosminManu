@@ -126,6 +126,13 @@
         </td>
         <td> 🟣 <i>in analyze</i></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/CosminManu/Git-workflow"><b>GIT branching notes</b></td>
+        <td>
+          <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        </td>
+      <td>🟢 <i>complete</i></td>
+    </tr>
 
 <!--    more to come -->
   </tbody>
