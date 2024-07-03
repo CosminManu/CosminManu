@@ -10,7 +10,7 @@
 <h3>Technologies I work with & want to get better to</h3>
 <p>
   <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
-  <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
+  <img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-sqaure&logo=express&logoColor=%2361DAFB"/>
   <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
@@ -30,6 +30,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/>
   <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white"/>
   <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
   <img alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
@@ -89,7 +90,7 @@
       <td>
         <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
         <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white"/>
-        <img alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square">
+        <img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB">
         <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
       </td>
       <td> 🟠 <i>in progress, deployed </i></td>
@@ -114,8 +115,9 @@
       <td><a href="https://github.com/CosminManu/Economo"><b>Economo</b></td>
       <td>
         <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
-        <img alt="maui" src="https://img.shields.io/badge/Maui-3498DB?style=flat-square&logo=maui&logoColor=white"/>
-        <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+        <img alt="maui" src="https://img.shields.io/badge/MAUI-3498DB?style=flat-square&logo=.net&logoColor=white"/>
+        <img alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/>
+        <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
       </td>
       <td> 🟠 <i>in progress</i></td>
     </tr>
