@@ -135,6 +135,15 @@
         </td>
       <td>🟢 <i>complete</i></td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/CosminManu/dotnet-maui-derek-banas"><b>.NET Maui Tutorial-practice</b></td>
+      <td>
+        <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+        <img alt="maui" src="https://img.shields.io/badge/MAUI-3498DB?style=flat-square&logo=.net&logoColor=white"/>
+        <img alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/>
+      </td>
+      <td> 🟠 <i>in progress</i></td>
+    </tr>
 
 <!--    more to come -->
   </tbody>
