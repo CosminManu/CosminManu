@@ -22,6 +22,7 @@
   <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
   <img alt="microsoftTeams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white" />
   <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+  <img alt="blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat-square&logo=blazor&logoColor=white"/>
   <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
   <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img alt="stack overflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/>
@@ -140,6 +141,7 @@
       <td>
         <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
         <img alt="maui" src="https://img.shields.io/badge/MAUI-3498DB?style=flat-square&logo=.net&logoColor=white"/>
+        <img alt="blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat-square&logo=blazor&logoColor=white"/>
         <img alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/>
       </td>
       <td> 🟠 <i>in progress</i></td>
