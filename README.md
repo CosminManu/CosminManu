@@ -166,7 +166,7 @@
   <a href="https://www.linkedin.com/in/cosminmanu/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/cosmin.manu31">
+  <a href="https://www.instagram.com/_cosminm_">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://www.facebook.com/cosmin.manu31">
