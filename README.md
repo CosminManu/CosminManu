@@ -147,7 +147,7 @@
       <td> 🟠 <i>in progress</i></td>
     </tr> -->
     <tr>
-      <td><a href="https://github.com/CosminManu/interviews-preps"><b>IT Technical Interviews</b></td>
+      <td><a href="https://github.com/CosminManu/interviews-prep"><b>IT Technical Interviews</b></td>
       <td>
         <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
         <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
