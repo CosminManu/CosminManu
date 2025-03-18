@@ -66,7 +66,7 @@
       </td>
       <td>🟢 <i>complete & deployed</i></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><a href="https://github.com/CosminManu/firebase-practice"><b>Firebase 9 with Auth practice</b></td>
       <td>
         <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -74,7 +74,7 @@
         <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/>
       </td>
       <td>🟢 <i>complete</i></td>
-    </tr>
+    </tr> -->
 <!--     <tr>
       <td><a href="https://github.com/CosminManu/eShoppingCart"><b>Online Shopping Cart</b></td>
       <td>
@@ -96,14 +96,14 @@
       </td>
       <td> 🟠 <i>in progress, deployed </i></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><a href="https://github.com/CosminManu/SeaVacations"><b>Cruise website</b></td>
         <td>
           Shopify platform
         </td>
       <td>🟢 <i>complete & deployed on platform</i></td>
-    </tr>
-    <tr>
+    </tr> -->
+<!--     <tr>
       <td><a href="https://github.com/CosminManu/tas"><b>Software application Testing</b></td>
         <td>
           <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -111,7 +111,7 @@
           Cucumber, JMeter, OWASP ZAP
         </td>
       <td>🟢 <i>complete</i></td>
-    </tr>
+    </tr> -->
     <tr>
       <td><a href="https://github.com/CosminManu/Economo"><b>Economo</b></td>
       <td>
@@ -122,13 +122,13 @@
       </td>
       <td> 🟠 <i>in progress</i></td>
     </tr>
-    <tr>
+<!--     <tr>
       <td><a href="https://github.com/CosminManu/24"><b>24 - timekeeping software</b></td>
         <td>
           TBD
         </td>
         <td> 🟣 <i>in analyze</i></td>
-    </tr>
+    </tr> -->
     <tr>
       <td><a href="https://github.com/CosminManu/Git-workflow"><b>About Git</b></td>
         <td>
@@ -136,13 +136,22 @@
         </td>
       <td>🟢 <i>complete</i></td>
     </tr>
-        <tr>
+<!--     <tr>
       <td><a href="https://github.com/CosminManu/dotnet-maui-derek-banas"><b>.NET Maui Tutorial-practice</b></td>
       <td>
         <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
         <img alt="maui" src="https://img.shields.io/badge/MAUI-3498DB?style=flat-square&logo=.net&logoColor=white"/>
         <img alt="blazor" src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=flat-square&logo=blazor&logoColor=white"/>
         <img alt="csharp" src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white"/>
+      </td>
+      <td> 🟠 <i>in progress</i></td>
+    </tr> -->
+    <tr>
+      <td><a href="https://github.com/CosminManu/interview-preps"><b>IT Technical Interviews</b></td>
+      <td>
+        <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white"/>
+        <img alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img alt="Sql" src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white"/>
       </td>
       <td> 🟠 <i>in progress</i></td>
     </tr>
