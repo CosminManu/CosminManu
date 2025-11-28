@@ -221,7 +221,7 @@
 
 ------------
 
-<p align="center"> <i>Life's good, G</i></p>
+<p align="center"> <i>Life's good</i></p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CosminManu&color=green" >
