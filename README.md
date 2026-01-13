@@ -5,7 +5,7 @@
 </br>I'm currently following masters in <b><i>eBusiness</i></b> at <b>Academy for Economic Studies Bucharest</b> for 2 years (Sept 2023 - June 2025)
 </br>In my free time I enjoy some good music 🎹, eat 🍕 or keep coding 💻</p>
 
-👉 <a href="https://github.com/CosminManu/my-CV/blob/main/CV_ManuCosminMihai.pdf" target="_blank" rel="noopener noreferrer"><i>Here's my CV</i></a>
+👉 <a href="" target="_blank" rel="noopener noreferrer"><i>Here's my CV</i></a>
 
 <h3>Technologies I work with & want to get better to 🌈 </h3>
 <p>
