@@ -2,10 +2,10 @@
 
 <p>Welcome to my page! 
 </br> I'm Cosmin, software developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197542.png" width="14"/> <b>Bucharest, Romania</b> 
-</br>I'm currently following masters in <b><i>eBusiness</i></b> at <b>Academy for Economic Studies Bucharest</b> for 2 years (Sept 2023 - June 2025)
+</br>I finished masters in <b><i>eBusiness</i></b> at <b>Academy for Economic Studies Bucharest</b> in June 2025
 </br>In my free time I enjoy some good music 🎹, eat 🍕 or keep coding 💻</p>
 
-👉 <a href="" target="_blank" rel="noopener noreferrer"><i>Here's my CV</i></a>
+👉 <a href="" target="_blank" rel="noopener noreferrer"><i>Here's my CV</i></a> <i>(update in progress)</i>
 
 <h3>Technologies I work with & want to get better to 🌈 </h3>
 <p>
